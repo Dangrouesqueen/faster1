@@ -81,7 +81,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """			Cloning"""
 
-####Logo####
+####Logo#### SHADOW HACKER ALONE CODER
 
 logo1 = """			Cloning"""
 
